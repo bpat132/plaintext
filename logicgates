@@ -1,0 +1,9 @@
+Pre-writing
+Main ideas
+  •	AND and OR used in everyday speech by humans, NAND and NOR are not, so it seems logical at first glance to use these in circuits.
+    o	But in fact, NAND and NOR are more basic and fundamental than AND and OR.
+  •	NAND and NOR are functionally complete, meaning that all other logic functions can be implemented using only NAND or NOR gates.
+  •	NAND and NOR use only two transistors, while AND and OR use three (NAND + invertor or NOR + invertor).
+    o	Nand is basically a multi-input invertor.
+  •	NAND and NOR are more common in some common circuits.
+    o	Example is D-latch
